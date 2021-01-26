@@ -13,5 +13,5 @@ tba
 - touchdesigner 2020.20625
 
 ### reference ###
-https://github.com/facebookresearch/detectron2
+https://github.com/facebookresearch/detectron2  
 https://github.com/spiraltechnica/Spout-for-Python
